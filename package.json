@@ -12,7 +12,7 @@
     "framer-motion": "^11",
     "leaflet": "^1.9.4",
     "lucide-react": "^0.383.0",
-    "next": "15.0.0",
+    "next": "^16.2.1",
     "qrcode": "^1.5.4",
     "react": "^18",
     "react-dom": "^18"
